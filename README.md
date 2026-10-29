@@ -1,4 +1,4 @@
-# 풍의 전설 자나두 (PC엔진 CD) 한글패치
+# 바람의 전설 제나두 (PC엔진 CD) 한글패치
 
 『風の伝説ザナドゥ』(Kaze no Densetsu Xanadu, PC Engine Super CD-ROM², 1994)의 한글패치와 분석 노트입니다.
 
