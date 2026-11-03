@@ -17,3 +17,4 @@ dump/
 captures/
 *.png
 !docs/img/*.png
+!screenshots/**/*.png
