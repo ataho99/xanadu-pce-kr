@@ -10,7 +10,7 @@
 ## 받아서 쓰기 (3줄)
 
 1. Releases에서 xdelta 두 개(롬용·시스템 카드용)를 받습니다.
-2. 원판 `Kaze no Densetsu Xanadu (Japan).bin`과 `syscard3.pce`(헤더 없는 262,144바이트)에 각각 적용합니다. cue는 원판 그대로 씁니다.
+2. 원판 **CloneCD 덤프(ccd/img/sub)의 `.img`**와 `syscard3.pce`(헤더 없는 262,144바이트)에 각각 적용합니다. 결과 `.img`는 원래 이름 그대로 두고 `.ccd`로 실행합니다. Redump 트랙별 bin·chd는 맞지 않습니다.
 3. RetroArch로 실행하고, 이상한 곳은 [Issues](https://github.com/ataho99/xanadu-pce-kr/issues)에 에뮬레이터 이름·코어와 함께 알려 주세요.
 
 원판과 결과물의 sha 값은 릴리스 본문에 있습니다.
